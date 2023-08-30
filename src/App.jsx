@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <div className="md:w-[500px]">
-        <div></div>
         <SearchBox />
         <TodoList />
       </div>
